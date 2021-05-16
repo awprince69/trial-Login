@@ -1,0 +1,11 @@
+.loginContainer{
+    background-image: url(../../images/photo-1497864149936-d3163f0c0f4b.jfif);
+    background-size: cover;
+    height: 100vh;
+    background-position: center center;
+}
+button{
+    outline: none;
+    border: none;
+    background: transparent;
+}
